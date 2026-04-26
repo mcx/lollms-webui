@@ -65,6 +65,10 @@ Happy April Fool's Day! While we did genuinely rework the settings page structur
 # LoLLMs v19.0 (alpha) Changelog
 *Date: March 06, 2025*
 
+## [2026-04-26 00:41]
+
+- chore: update web dependencies and rebuild dist bundles
+
 ## [2026-04-25 21:39]
 
 - Refactor: Clean up and remove obsolete asset bundles
