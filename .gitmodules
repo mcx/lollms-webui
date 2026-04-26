@@ -1,11 +1,3 @@
-[submodule "zoos/bindings_zoo"]
-	path = zoos/bindings_zoo
-	url = https://github.com/ParisNeo/lollms_bindings_zoo.git
-	branch = main
-[submodule "zoos/models_zoo"]
-	path = zoos/models_zoo
-	url = https://github.com/ParisNeo/models_zoo.git
-	branch = main
 [submodule "utilities/safe_store"]
 	path = utilities/safe_store
 	url = https://github.com/ParisNeo/safe_store.git
