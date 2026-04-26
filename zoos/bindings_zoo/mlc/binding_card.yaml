@@ -1,0 +1,7 @@
+name: mlc-llm
+author: mlc-ai
+version: 1.0
+link: https://github.com/mlc-ai/mlc-llm
+description: This binding uses compiled versions of the models optimized to run on your hardware
+accepted_models: 
+  - mlc

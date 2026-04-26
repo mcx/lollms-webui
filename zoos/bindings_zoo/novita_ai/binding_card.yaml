@@ -1,0 +1,13 @@
+name: Novita AI
+author: Novita AI
+version: 1.0
+link: https://novita.ai/
+description: This binding uses the novita ai api to make you use multiple models
+accepted_models: 
+  - deepseek
+  - llama
+  - open chat
+  - open hermes
+  - dolphin mixtral
+  - mistral
+  - qwen

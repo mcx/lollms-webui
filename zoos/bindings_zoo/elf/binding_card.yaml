@@ -1,0 +1,7 @@
+name: Elf
+author: ParisNeo
+version: 1.0
+link: https://lollms.com/
+description: This binding is a universal service binding that can connect to multiple text generation servers
+accepted_models: 
+  - elf
